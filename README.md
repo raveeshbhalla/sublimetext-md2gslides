@@ -9,7 +9,7 @@ This build system for [Sublime Text](https://sublimetext.com) creates a Google S
 - gslides.sublime-build file
 
 ## Setup
-- Download the gslides.sublime-build file
+- Download the [gslides.sublime-build](https://github.com/raveeshbhalla/sublimetext-md2gslides/raw/master/gslides.sublime-build) file
 - Move to `~/Library/Application Support/Sublime Text 3/Packages/User` folder
 
 ## Usage
