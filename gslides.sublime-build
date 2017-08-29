@@ -1,4 +1,4 @@
 {
-	"shell_cmd": "md2gslides '$file' -t '$file_base_name'",
+    "shell_cmd": "md2gslides '$file' -t '$file_base_name'",
     "selector": "source.markdown"
 }
